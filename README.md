@@ -36,7 +36,7 @@ device that can act as a keyboard is usable for this.
 * Press 'D' to resume the countdown.
 * Press 'C' to cancel the timer.
 
-###Wallclock Mode####
+####Wallclock Mode####
 * Press 'C' to go back to the Logo Screen.
 
 ###How to Build the Final SVG File###
