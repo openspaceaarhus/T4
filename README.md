@@ -79,17 +79,17 @@ browser window with Tech Talk Tuesday Timer will run out of memory and crash.
 
 ###Version History###
 ####1.0 (2012-07-03)####
-Initial release. Yay! :-D
+* Initial release. Yay! :-D
 
 ####1.1 (2012-07-03)####
-Flemming requested more accuracy, Rune requested faster blinking.
+* Flemming requested more accuracy, Rune requested faster blinking.
 
 ####1.2 (2012-09-18)####
-The guys requested sound alerts at 05:00 and when the time is up. I threw in
+* The guys requested sound alerts at 05:00 and when the time is up. I threw in
 button beeps too.
 
 ####1.3 (late 2012)####
-In Linux it's difficult to setup the ATI Remote Wonder remote control to do
+* In Linux it's difficult to setup the ATI Remote Wonder remote control to do
 anything when the OK button is pushed. Now on we use D instead (for "Do it").
 
 ####1.4 (2013-06-04)####
@@ -100,7 +100,7 @@ embedded Base64-encoded OpenType version of the same font.
 * Finally, I've added a tool for inlining the external files.
 
 ####1.5 (2014-02-18)####
-Added wallclock mode.
+* Added wallclock mode.
 
 ####1.6 (2014-06-30)####
 * Various small changes.
