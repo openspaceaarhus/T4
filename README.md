@@ -88,7 +88,7 @@ Flemming requested more accuracy, Rune requested faster blinking.
 The guys requested sound alerts at 05:00 and when the time is up. I threw in
 button beeps too.
 
-####1.3 (late 2012)#### 
+####1.3 (late 2012)####
 In Linux it's difficult to setup the ATI Remote Wonder remote control to do
 anything when the OK button is pushed. Now on we use D instead (for "Do it").
 
