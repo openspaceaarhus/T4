@@ -71,7 +71,8 @@ Google Chrome   | *Fully supported.*
 Apple Safari    | *Fully supported, but sound is a bit delayed.*
 Mozilla Firefox | *Fully supported, but the animation may stutter a bit.*
 Opera           | *Fully supported.*
-Microsoft IE    | *LOL! IE9 and above will load the SVG, but nothing works.*
+Microsoft IE    | *Runs in IE 11, but is missing sound and the custom font.*
+Microsoft Edge  | *Fully supported.*
 
 ###Known Issues###
 Google Chrome seems to have a memory leak somewhere. After some hours the
